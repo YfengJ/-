@@ -43,6 +43,20 @@ MyJobSystem/
 ├── .gitignore                   # Git 忽略配置
 └── README.md                    # 项目说明文档
 
+## 📸 项目截图 | Screenshots
+
+### 登录界面
+![登录页面](screenshots/login.png)
+### 注册界面
+![注册页面](screenshots/register.png)
+### 职位大厅
+![职位列表](screenshots/jobhall.png)
+### 申请
+![申请](screenshots/applicantion.png)
+### 个人中心
+![个人中心](screenshots/profile.png)
+### 主页
+![主页](screenshots/home.png)
 
 🚀 快速开始 | Quick Start
 1. 后端启动 (Backend)
