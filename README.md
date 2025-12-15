@@ -52,7 +52,7 @@ MyJobSystem/
 ### 职位大厅
 ![职位列表](screenshots/jobhall.png)
 ### 申请
-![申请](screenshots/applicantion.png)
+![申请](screenshots/application.png)
 ### 个人中心
 ![个人中心](screenshots/profile.png)
 ### 主页
